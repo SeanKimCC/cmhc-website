@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cmhc-website/static/css/main.b636119c.chunk.css",
+    "main.js": "/cmhc-website/static/js/main.bb83cf90.chunk.js",
+    "main.js.map": "/cmhc-website/static/js/main.bb83cf90.chunk.js.map",
+    "runtime-main.js": "/cmhc-website/static/js/runtime-main.98bfc3cd.js",
+    "runtime-main.js.map": "/cmhc-website/static/js/runtime-main.98bfc3cd.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/cmhc-website/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8cf21731.chunk.js": "/cmhc-website/static/js/2.8cf21731.chunk.js",
+    "static/js/2.8cf21731.chunk.js.map": "/cmhc-website/static/js/2.8cf21731.chunk.js.map",
+    "static/js/3.908feccb.chunk.js": "/cmhc-website/static/js/3.908feccb.chunk.js",
+    "static/js/3.908feccb.chunk.js.map": "/cmhc-website/static/js/3.908feccb.chunk.js.map",
+    "index.html": "/cmhc-website/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/cmhc-website/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.b636119c.chunk.css.map": "/cmhc-website/static/css/main.b636119c.chunk.css.map",
+    "static/js/2.8cf21731.chunk.js.LICENSE.txt": "/cmhc-website/static/js/2.8cf21731.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cmhc-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98bfc3cd.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.8cf21731.chunk.js",
+    "static/css/main.b636119c.chunk.css",
+    "static/js/main.bb83cf90.chunk.js"
+  ]
+}
