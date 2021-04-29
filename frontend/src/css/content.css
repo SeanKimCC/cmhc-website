@@ -1,0 +1,82 @@
+.section{
+
+}
+
+#myFrontPage{
+  margin-top: -50px;
+  display: flex;
+}
+.app-fullpage {
+  background-color: white;
+  min-height: 100vh;
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  position: relative;
+}
+
+.app-footer{
+  background-color: rgba(32, 33, 36, 1);
+  min-height: 1vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgba(232, 234, 237, 1);
+}
+
+
+/**
+* Set rules for how the map overlays
+* (information box and legend) will be displayed
+* on the page. */
+.map-overlay {
+  position: absolute;
+  bottom: 150px;
+  right: 200px;
+  background: rgba(255, 255, 255, 0.8);
+  margin-right: 20px;
+  font-family: Arial, sans-serif;
+  overflow: auto;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+#features {
+  top: 150px;
+  right: 200px;
+  height: 300px;
+  margin-top: 20px;
+  width: 250px;
+  font-size: 12px;
+}
+
+#legend {
+  padding: 10px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  line-height: 18px;
+  height: 150px;
+  margin-bottom: 40px;
+  width: 100px;
+}
+
+#selectLayer{
+
+}
+
+.exp-text{
+  font-size: 15px;
+  padding: 20px
+}
+
+.legend-key {
+  display: inline-block;
+  border-radius: 20%;
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+}
